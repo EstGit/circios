@@ -1,3 +1,9 @@
+# Testing
+test.c
+
+# IDE files
+.vscode
+
 # Prerequisites
 *.d
 
