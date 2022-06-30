@@ -13,7 +13,7 @@
 
 #include <stdlib.h>
 
-#include "../bytes.h"
+#include "../utils/bytes.h"
 
 /**
  * @brief Node of Tree data structure
