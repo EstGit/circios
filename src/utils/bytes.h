@@ -11,7 +11,7 @@
 #ifndef CIRCIOS_BYTES_H
 #define CIRCIOS_BYTES_H
 
-#include <stdlib.h>
+#include <stddef.h>
 
 /**
  * @brief Byte data type
